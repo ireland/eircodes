@@ -1,5 +1,4 @@
-# EircodesI
-Irish eircode reference data and information
+A collection of eircode relatyed reference data and information
 
 For more information see
 * https://www.eircode.ie/
