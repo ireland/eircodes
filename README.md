@@ -1,6 +1,6 @@
 A collection of eircode relatyed reference data and information
 
-For more information see
+For more information see:
 * https://www.eircode.ie/
 * https://en.wikipedia.org/wiki/Postal_addresses_in_the_Republic_of_Ireland
 * http://www.ossiansmyth.ie/eircode-routing-keys/
