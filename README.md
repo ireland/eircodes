@@ -1,4 +1,4 @@
-A collection of eircode relatyed reference data and information
+A collection of eircode related information and data
 
 For more information see:
 * https://www.eircode.ie/
